@@ -24,7 +24,7 @@ const SideNav = () => {
       <div className='flex justify-end lg:hidden mb-2 text-3xl font-extrabold text-slate-800 dark:text-white' onClick={closeNav}>
         <MdClose/>
       </div>
-      <h1 className='px-5 font-bold text-2xl mb-5 dark:text-white'>IPI<span className='text-blue-600'>.</span></h1>
+      <h1 className='px-5 font-bold text-2xl mb-5 dark:text-white'>Ahad_dev<span className='text-blue-600'>.</span></h1>
       <ul className='scroll-smooth'>
         <p className='uppercase font-medium text-slate-600 dark:text-slate-400 text-xs px-5 py-3'> Main menu </p>
        
