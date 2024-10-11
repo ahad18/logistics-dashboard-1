@@ -4,7 +4,7 @@ export const DataContext = createContext();
 
 export const DataProvider = (props) => {
     const [user, setUser] = useState({
-      name: 'Peter',
+      name: 'Ahad',
       img: '/user.jpg'
     })
 
